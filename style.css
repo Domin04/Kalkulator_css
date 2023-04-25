@@ -1,0 +1,23 @@
+﻿.calcGrid {
+    background-color: #0000000;
+    column-gap: 5;
+    row-gap: 5;
+}
+.calcGrid > * {
+   border-radius: 5;
+}
+
+.numberButtton {
+    background-color: #222123;
+    text-size-adjust: 200%;
+}
+.operatorButton, .equalsButton {
+    background-color: #FFB300;
+}
+.clearButton, .dotButton {
+    background-color: #CFCFCF;
+}
+.historyView {
+    background-color: #222123;
+}
+
